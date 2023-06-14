@@ -19,3 +19,8 @@ ResearchGate: https://www.researchgate.net/profile/Lucas_Lo_Vercio
 Hallgrímsson Lab: https://cumming.ucalgary.ca/lab/morpho/
 
 Forkert Lab: https://ucalgary.ca/labs/miplab/home
+
+***
+<img width="1200" alt="Visual summary" src="https://github.com/lucaslovercio/CurriculumVitae/blob/master/github_cover_image.jpg">
+
+***
